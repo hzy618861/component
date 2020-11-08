@@ -14,5 +14,6 @@
     "global": "^4.4.0",
     "learna": "^1.0.1",
     "lerna": "^3.22.1"
-  }
+  },
+  "gitHead": "01a4d773756a599c1b4bf4aadf7c6a1a4cc193e8"
 }

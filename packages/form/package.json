@@ -1,5 +1,5 @@
 {
-  "name": "lg-form",
+  "name": "lg-forms",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,6 @@
   "dependencies": {
     "async-validator": "^3.4.0",
     "lodash": "3"
-  }
+  },
+  "gitHead": "01a4d773756a599c1b4bf4aadf7c6a1a4cc193e8"
 }
