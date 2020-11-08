@@ -1,5 +1,5 @@
 {
-  "name": "lg-button",
+  "name": "lg-button_hzy",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -12,5 +12,5 @@
   "dependencies": {
     "lodash": "4"
   },
-  "gitHead": "10953e84d2416b6370cd22794fc5af0609658bde"
+  "gitHead": "6901b51dc98dce90db248780339ce44bf4401bd8"
 }

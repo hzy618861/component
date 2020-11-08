@@ -1,5 +1,5 @@
 {
-  "name": "lg-form-item",
+  "name": "form-item_hzy",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
     "learna": "^1.0.1",
     "lerna": "^3.22.1"
   },
-  "gitHead": "10953e84d2416b6370cd22794fc5af0609658bde"
+  "gitHead": "6901b51dc98dce90db248780339ce44bf4401bd8"
 }

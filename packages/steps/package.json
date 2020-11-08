@@ -1,5 +1,5 @@
 {
-  "name": "lg-steps",
+  "name": "lg-steps_hzy",
   "version": "0.0.5",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
-  "gitHead": "10953e84d2416b6370cd22794fc5af0609658bde"
+  "gitHead": "6901b51dc98dce90db248780339ce44bf4401bd8"
 }
