@@ -1,5 +1,5 @@
 {
-  "name": "lg-forms",
+  "name": "lg-form_hzy",
   "version": "0.0.4",
   "description": "",
   "main": "index.js",
@@ -13,5 +13,5 @@
     "async-validator": "^3.4.0",
     "lodash": "3"
   },
-  "gitHead": "b00fb60a7e9cb2bbf7e78482e5711ff91bbaed36"
+  "gitHead": "10953e84d2416b6370cd22794fc5af0609658bde"
 }
